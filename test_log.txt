@@ -1,0 +1,2 @@
+Average IoU: 0.6154
+mAP: 0.9143
